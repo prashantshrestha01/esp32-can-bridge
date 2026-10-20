@@ -1,0 +1,2 @@
+# Enable WebSocket support in the HTTP server (needed for /ws)
+CONFIG_HTTPD_WS_SUPPORT=y
