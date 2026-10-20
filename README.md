@@ -1,5 +1,8 @@
 # ESP32 WiFi <-> CAN bridge — 2011 Ford Fusion
 
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square) ![CAN bus](https://img.shields.io/badge/CAN_bus-2D2D2D?style=flat-square) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
+
+
 The ESP32 joins the car's CAN bus through the SN65HVD230 transceiver and
 serves it over its own WiFi network. Connect your phone to the `FusionCAN`
 access point, open **http://192.168.4.1**, and you get a live CAN monitor in
@@ -78,3 +81,13 @@ Serial monitor at 115200 mirrors the same log over USB.
   lights are the safe playground.
 - The S3 has one TWAI controller. For HS-CAN + MS-CAN simultaneously, add an
   MCP2515 SPI module (~$5) as the second bus.
+
+---
+
+### 👤 About the author
+
+**Prashant Shrestha** — Cybersecurity Specialist (CDI College, in progress) · 11+ years across SOC analysis, penetration testing & network security · Mississauga, ON 🇨🇦
+
+🔗 [LinkedIn](https://www.linkedin.com/in/cto-prashant/) · 💻 [GitHub](https://github.com/prashantshrestha01)
+
+*Building in public — every project here is my own lab work.*
