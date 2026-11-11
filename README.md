@@ -84,4 +84,4 @@ Serial monitor at 115200 mirrors the same log over USB.
 
 ---
 
-*Built by [Prashant Shrestha](https://github.com/prashantshrestha01) · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/cto-prashant/)*
+*Built by [Prashant Shrestha](https://github.com/prashantshrestha01) · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/prashant-me/)*
